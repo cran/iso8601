@@ -1,5 +1,6 @@
-bef4ba6e5da1cda1ca9afadde6688b69 *DESCRIPTION
+5193e183eb564c24d25040e26e0debd8 *DESCRIPTION
 70013ca1c8a25a7ec2830b2329eac26b *NAMESPACE
+535d0b6a41d4b85c76fdf74cae278279 *NEWS
 70709d2ff65449afc631c4f9e7ad766b *R/RcppExports.R
 4602cbe6b1b78eedbd5d6c3d5a50f7d3 *R/iso8601standardise.R
 58966ad513a69cc757d6aeaf20960dbb *R/iso8601todataframe.R
@@ -36,7 +37,7 @@ cc31b3fd19631d893ecc8fb60cff2a61 *src/parseduration.cpp
 d0ff4ca9c33fb6591a75c7437a545706 *src/rcpp_parsetime.cpp
 8cce165de1d99ad42be077931af4af8a *src/rcpp_standardise.cpp
 11264c1747532cb41b7fa6f96d1d6dde *src/rcpp_type.cpp
-88e47855ad75fb53580e0e5338ef95e4 *src/utils.cpp
+cb7855441b86ace52e5c9527d38718da *src/utils.cpp
 931c33fa58408de0bae488fd0eb98241 *src/utils.h
 f31f69b76caf88627c9c34de994d0583 *tests/helpers.R
 65838f556083db8a52dc71e8182eab54 *tests/iso8601standardise.R

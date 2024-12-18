@@ -1,7 +1,7 @@
 Package: iso8601
 Type: Package
 Title: Working with ISO8601 Dates and Times
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person(given = "Jan",
            family = "van der Laan",
@@ -21,8 +21,8 @@ License: GPL-3
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 NeedsCompilation: yes
-Packaged: 2024-12-13 15:05:57 UTC; dlan@cbsp.nl
+Packaged: 2024-12-18 14:10:53 UTC; eoos
 Author: Jan van der Laan [aut, cre] (<https://orcid.org/0000-0002-0693-1514>)
 Maintainer: Jan van der Laan <r@eoos.dds.nl>
 Repository: CRAN
-Date/Publication: 2024-12-16 16:30:02 UTC
+Date/Publication: 2024-12-18 14:50:02 UTC
