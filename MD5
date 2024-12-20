@@ -1,6 +1,6 @@
-5193e183eb564c24d25040e26e0debd8 *DESCRIPTION
+b18159f2dd8e2b723e3f977c2fd7534f *DESCRIPTION
 70013ca1c8a25a7ec2830b2329eac26b *NAMESPACE
-535d0b6a41d4b85c76fdf74cae278279 *NEWS
+18d3b1538444922861e6c46b5cdcbb90 *NEWS
 70709d2ff65449afc631c4f9e7ad766b *R/RcppExports.R
 4602cbe6b1b78eedbd5d6c3d5a50f7d3 *R/iso8601standardise.R
 58966ad513a69cc757d6aeaf20960dbb *R/iso8601todataframe.R
@@ -29,7 +29,7 @@ d24aecc0500a4b0d38dab8ebcb39f679 *src/iso8601_duration.cpp
 81b9e511692dc024e00f7748f3dcc5d8 *src/iso8601_timezone.cpp
 e231be502309ae69f045729996f9710e *src/iso8601_timezone.h
 39a8dd0221d7dd20e1b4fca06b8c66c8 *src/parsedate.cpp
-ed719be1c1a8cdc3be6875fd1f7a8527 *src/parsedatetime.cpp
+1899dfeee07dde023867f9424b39a13e *src/parsedatetime.cpp
 cc31b3fd19631d893ecc8fb60cff2a61 *src/parseduration.cpp
 01a8f371173e7341ce9f5bcb5d8ea657 *src/parsetime.cpp
 50b508601370fdbc2b5d736a1ed577ea *src/rcpp_parse_to_dataframe.cpp
